@@ -4,4 +4,4 @@ define(['jquery'], function ($) {
 	    $('.greeting').text('Hello World');
 	}
     }
-}
+})
